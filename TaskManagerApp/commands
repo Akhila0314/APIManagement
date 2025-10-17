@@ -1,0 +1,18 @@
+# dotnet Build
+# dotnet run -- to start the application
+
+# Application runs in 5000 Port
+
+#Swagger url - http://localhost:5000/swagger
+
+Implemented TaskManagerApp with swagger for testing apis. Below are some details that may require
+# post api request body
+
+{
+  "id": 1,
+  "title": "Api Integration"
+}
+
+# delete api request - insert id 
+
+
